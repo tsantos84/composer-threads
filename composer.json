@@ -1,0 +1,11 @@
+{
+    "name": "tsantos84/thread-sample",
+    "description": "description_text",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Sample\\" : "src/"
+        }
+    }
+}
